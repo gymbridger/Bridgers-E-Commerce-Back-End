@@ -26,6 +26,8 @@ To use the E-Commerce, follow these steps:
 - The server will start running and listening for incoming requests.
 - You can then use an API testing tool like insomnia to interact with the server and perform operations on products, categories, and tags.
 
+For a demo of the application, visit [this link](https://drive.google.com/file/d/1pqXTfpPTvX31E6Nqqt-6Cdt_6Sy8LHov/view).
+
 ## Credits
 
 Me
